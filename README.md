@@ -1,11 +1,11 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Git and GitHub together. 
-Adding a line for rebasing examples, then more changes from myfeature branch too.
 
 ## Introduction
 
 This is an example on how to show different parts of the Git repository and various commands using a web project.
+Updating A line
 
 ## Purpose
 
