@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and GitHub together.
+This is a simple website project for showing how to use Git and GitHub together. 
+Adding a line for rebasing examples.
 
 ## Introduction
 
@@ -14,7 +15,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 
 This is a simple web project, development can be on any web server or even local file system.
 
-## How To Continue
+## How To Contribute
 
 Please fork this repository and then issue Pull Request to review.
 
